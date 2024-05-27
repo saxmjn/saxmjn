@@ -14,7 +14,6 @@ I also welcome discussions on a wide range of topics including product developme
 - **Email:** saksham@macha.ai
 - **Twitter:** [saxmjain](https://twitter.com/saxmjain)
 - **LinkedIn:** [saxmjain](https://www.linkedin.com/in/saxmjain)
-- **GitHub:** [saxmjn](https://github.com/saxmjn)
 
 
 ### Here are few more things about me
